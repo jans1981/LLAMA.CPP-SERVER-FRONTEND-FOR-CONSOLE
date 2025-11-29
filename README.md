@@ -1,3 +1,3 @@
 # LLAMA.CPP-SERVER-FRONTEND-FOR-CONSOLE
 THIS IS A LLAMA.CPP SERVER FRONTEND TO SERVE IN LAN MULTIPLE GGUFS 
-<img src="./frontend.jpeg">
+<img src="./interfaz.jpeg">
